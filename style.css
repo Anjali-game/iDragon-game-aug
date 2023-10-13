@@ -41,7 +41,7 @@ body{
 
 }
 .obstacleAni{
-    animation:obstcaleAni 0.8s linear infinite ;
+    animation:obstcaleAni 0.6s linear infinite ;
 }
 
 .gameOver{
